@@ -551,7 +551,7 @@ def analyse_complete_avec_essentiels():
     print("="*100)
     
     # valeurs_n = [5, 10, 15, 20, 30, 40, 60, 100]
-    # Si l'enseignant demande plus de points
+   
     valeurs_n = [5, 10, 15, 20, 25, 30, 40, 50, 60, 80, 100, 120, 150]
     
     # Stockage global des résultats

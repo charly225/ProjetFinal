@@ -293,7 +293,7 @@ $$
 - Valeurs de n testées : [5, 10, 15, 20, 30, 40, 60, 100]
 - Mesures : Erreur absolue et temps d'exécution (microsecondes)
 - Répétitions : Une seule mesure par (fonction, méthode, n)
-- Machine : [Votre configuration matérielle]
+
 
 **Métriques :**
 1. **Erreur absolue** : $E = |I_{approx} - I_{exact}|$
