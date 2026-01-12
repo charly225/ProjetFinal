@@ -7,7 +7,7 @@ from scipy.special import roots_legendre, roots_laguerre
 from scipy import integrate
 
 # ============================================================================
-# PARTIE 1 : MÉTHODES D'INTÉGRATION (NETTOYÉES)
+# PARTIE 1 : MÉTHODES D'INTÉGRATION
 # ============================================================================
 
 def simpson(f: Callable, a: float, b: float, n: int) -> float:
